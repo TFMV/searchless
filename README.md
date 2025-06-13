@@ -81,7 +81,7 @@ Search over documentation snippets with actual semantic understanding. See how l
 
 *Key insight: Context awareness without network calls.*
 
-### 📊 [benchmarks](./demos/benchmarks/)
+### 📊 [benchmarks](./demos/05_benchmarks/)
 
 **"Honest Numbers"**
 
