@@ -10,7 +10,7 @@ This repository contains the code and demos for the article "SQLite for Embeddin
 
 ## What Is This?
 
-This repository demonstrates **chromem-go**, the SQLite moment for vector embeddings. It's the companion code for the Medium article ["SQLite for Embeddings: chromem-go and the Return of Local Intelligence"](https://medium.com) - a manifesto for local-first semantic search.
+This repository demonstrates **chromem-go**, the SQLite moment for vector embeddings. It's the companion code for the Medium article ["SQLite for Embeddings: chromem-go and the Return of Local Intelligence"](https://medium.com/p/3fe30ee5efbf) - a manifesto for local-first semantic search.
 
 Every vector database tutorial starts the same way: install Docker, configure persistence, set up authentication, expose ports, monitor resources. By the time you're ready to search your first embedding, you've architected a distributed system.
 
